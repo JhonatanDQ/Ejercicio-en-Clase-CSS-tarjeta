@@ -1,0 +1,14 @@
+{
+    "name": "tarjeta-perfil",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    },
+    "author": "Jhonatan Quiroga",
+    "license": "ISC",
+    "devDependencies": {
+        "tailwindcss": "^3.3.1"
+    }
+}
